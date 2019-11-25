@@ -1,0 +1,17 @@
+﻿<Window x:Class="ProjectTest_ArrayList1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectTest_ArrayList1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="addButton" Content="Add" HorizontalAlignment="Left" Margin="181,211,0,0" VerticalAlignment="Top" Width="109" Height="44" Click="AddButton_Click"/>
+        <Button x:Name="removeButton" Content="Remove" HorizontalAlignment="Left" Margin="326,211,0,0" VerticalAlignment="Top" Width="108" Height="44" Click="RemoveButton_Click"/>
+        <Button x:Name="showButton" Content="ShowAll" HorizontalAlignment="Left" Margin="477,211,0,0" VerticalAlignment="Top" Width="104" Height="44" Click="ShowButton_Click"/>
+        <TextBox x:Name="inputNum" HorizontalAlignment="Left" Height="24" Margin="181,163,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="253" TextChanged="TextBox_TextChanged"/>
+        <Label Content="กรอกข้อมูล" HorizontalAlignment="Left" Margin="181,132,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

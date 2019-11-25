@@ -1,0 +1,15 @@
+C:\Users\NewzCJ\Source\Repos\ProjectTest_ArrayList1\ProjectTest_ArrayList1\bin\Debug\ProjectTest_ArrayList1.exe.config
+C:\Users\NewzCJ\Source\Repos\ProjectTest_ArrayList1\ProjectTest_ArrayList1\bin\Debug\ProjectTest_ArrayList1.exe
+C:\Users\NewzCJ\Source\Repos\ProjectTest_ArrayList1\ProjectTest_ArrayList1\bin\Debug\ProjectTest_ArrayList1.pdb
+C:\Users\NewzCJ\Source\Repos\ProjectTest_ArrayList1\ProjectTest_ArrayList1\obj\Debug\MainWindow.g.cs
+C:\Users\NewzCJ\Source\Repos\ProjectTest_ArrayList1\ProjectTest_ArrayList1\obj\Debug\App.g.cs
+C:\Users\NewzCJ\Source\Repos\ProjectTest_ArrayList1\ProjectTest_ArrayList1\obj\Debug\ProjectTest_ArrayList1_MarkupCompile.cache
+C:\Users\NewzCJ\Source\Repos\ProjectTest_ArrayList1\ProjectTest_ArrayList1\obj\Debug\ProjectTest_ArrayList1_MarkupCompile.lref
+C:\Users\NewzCJ\Source\Repos\ProjectTest_ArrayList1\ProjectTest_ArrayList1\obj\Debug\MainWindow.baml
+C:\Users\NewzCJ\Source\Repos\ProjectTest_ArrayList1\ProjectTest_ArrayList1\obj\Debug\ProjectTest_ArrayList1.g.resources
+C:\Users\NewzCJ\Source\Repos\ProjectTest_ArrayList1\ProjectTest_ArrayList1\obj\Debug\ProjectTest_ArrayList1.Properties.Resources.resources
+C:\Users\NewzCJ\Source\Repos\ProjectTest_ArrayList1\ProjectTest_ArrayList1\obj\Debug\ProjectTest_ArrayList1.csproj.GenerateResource.cache
+C:\Users\NewzCJ\Source\Repos\ProjectTest_ArrayList1\ProjectTest_ArrayList1\obj\Debug\ProjectTest_ArrayList1.csproj.CoreCompileInputs.cache
+C:\Users\NewzCJ\Source\Repos\ProjectTest_ArrayList1\ProjectTest_ArrayList1\obj\Debug\ProjectTest_ArrayList1.exe
+C:\Users\NewzCJ\Source\Repos\ProjectTest_ArrayList1\ProjectTest_ArrayList1\obj\Debug\ProjectTest_ArrayList1.pdb
+C:\Users\NewzCJ\Source\Repos\ProjectTest_ArrayList1\ProjectTest_ArrayList1\obj\Debug\ProjectTest_ArrayList1.csprojAssemblyReference.cache
